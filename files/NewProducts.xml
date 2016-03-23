@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ABASData>
+    <RecordSet action="NEW" database="02" group="01">
+        <Record>
+            <Head>
+                <Field name="swd">DINGHOLD</Field>
+                <Field name="descrOperLang">Dinghold</Field>
+                <Field name="salesPrice">5.72</Field>
+                <Field name="packDimLength">11.25</Field>
+                <Field name="packDimWidth">15.26</Field>
+                <Field name="packDimHeight">58.66</Field>
+            </Head>
+        </Record>
+        <Record>
+            <Head>
+                <Field name="swd">ALPHAIN</Field>
+                <Field name="descrOperLang">Alphain</Field>
+                <Field name="salesPrice">6.57</Field>
+                <Field name="packDimLength">30.52</Field>
+                <Field name="packDimWidth">92.67</Field>
+                <Field name="packDimHeight">21.96</Field>
+            </Head>
+            <Row rowNo="1">
+                <Field name="prodListElem">PLATE</Field>
+                <Field name="elemQty">6.0</Field>
+            </Row>
+            <Row rowNo="2">
+                <Field name="prodListElem">CUP</Field>
+                <Field name="elemQty">6.0</Field>
+            </Row>
+        </Record>
+        <Record>
+            <Head>
+                <Field name="swd">SILLAB</Field>
+                <Field name="descrOperLang">Sillab</Field>
+                <Field name="salesPrice">5.68</Field>
+                <Field name="packDimLength">42.93</Field>
+                <Field name="packDimWidth">93.39</Field>
+                <Field name="packDimHeight">74.98</Field>
+            </Head>
+            <Row rowNo="1">
+                <Field name="prodListElem">DESK</Field>
+                <Field name="elemQty">1.0</Field>
+            </Row>
+            <Row rowNo="2">
+                <Field name="prodListElem">CABLETUN</Field>
+                <Field name="elemQty">5.0</Field>
+            </Row>
+            <Row rowNo="3">
+                <Field name="prodListElem">BOX</Field>
+                <Field name="elemQty">2.0</Field>
+            </Row>
+        </Record>
+    </RecordSet>
+</ABASData>

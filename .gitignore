@@ -1,0 +1,8 @@
+classes/
+Logs/
+*.log
+ajo-access.properties
+lib/
+.classpath
+.project
+.settings/
